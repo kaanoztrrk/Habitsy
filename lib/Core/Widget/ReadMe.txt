@@ -1,0 +1,1 @@
+// ! Bu Klasör global widget bulunan yerler

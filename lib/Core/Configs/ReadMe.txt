@@ -1,0 +1,1 @@
+//! Bu Klasör Route gibi global olarak yöneteceğimiz uygulama uzantılarını kodlamak için

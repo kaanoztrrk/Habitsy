@@ -1,0 +1,1 @@
+//! Bu Klasör Uygulamanın temel özellik değerlerini yazdığımız değişmeyen değerleri içerecektir.

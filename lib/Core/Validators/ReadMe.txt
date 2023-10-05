@@ -1,0 +1,1 @@
+// ! Bu Klasör uygulamanın kullanıcının işlem görmeden önceki text veya değerleri içerecek

@@ -1,0 +1,1 @@
+// ! Bu Klasör Uygulama içi pratik uzantı methodlarını yazacağımız klasödür. örnek olarak, çok kullanılan image ve text widget.

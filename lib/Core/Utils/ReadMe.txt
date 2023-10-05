@@ -1,0 +1,1 @@
+// ! Bu Klasör responsive, padding gibi en çok kullanılan sayfa* sabitleri için
